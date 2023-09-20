@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5971d2bafb9225",
+        "id": "44eb0713ed175851",
         "type": "tabs",
         "children": [
           {
-            "id": "17101474eceb0edd",
+            "id": "bd77f17188eb88b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Javascript/Javascript.md",
-                "mode": "source",
-                "source": false
+                "file": "DBMS/core concepts.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "DBMS/core concepts.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "DBMS/core concepts.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript.md"
+                "file": "DBMS/core concepts.excalidraw.md"
               }
             }
           },
@@ -155,20 +153,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17101474eceb0edd",
+  "active": "6d016f0b9e229854",
   "lastOpenFiles": [
-    "DBMS/core concepts.excalidraw.md",
     "DBMS/CTE - common table expression.md",
+    "DSA/LInkedList/middle of LinkedList.md",
+    "DSA/Sliding Window/subarray.md",
+    "DSA/Sliding Window/atMost.md",
     "Javascript/Javascript.md",
+    "DBMS/core concepts.excalidraw.md",
     "README.md",
     "Spring Boot/Mapping in Spring JPA.md",
     "Spring Boot/store List<Object> in db.md",
     "README 2.md",
     "Javascript/59nlnyqioosaowj09xn8.gif",
-    "DSA/Sliding Window/atMost.md",
-    "DSA/Sliding Window/subarray.md",
     "DSA/Sliding Window",
-    "DSA/LInkedList/middle of LinkedList.md",
     "DSA/LInkedList",
     "Spring Boot",
     "Javascript",
