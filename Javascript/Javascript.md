@@ -50,7 +50,7 @@ JavaScript objects have a set of “own properties,” and they also
 inherit a set of properties from their prototype object.
 
 https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
-![[59nlnyqioosaowj09xn8.gif]]
+![[Javascript/assets/59nlnyqioosaowj09xn8.gif]]
 
 ## Deleting Properties
 
@@ -268,4 +268,77 @@ In JavaScript, `map`, `filter`, and `reduce` are higher-order functions that ope
    In this example, `splice(1, 2, 6, 7)` removes two elements starting from index 1 and replaces them with `6` and `7`, resulting in the modified `numbers` array.
 
 These array methods provide different ways to manipulate arrays in JavaScript, allowing you to extract, merge, or modify elements to suit your specific needs while maintaining the original data intact when necessary.
+
+
+# Asynchronous JavaScript
+
+## What is a Callback Function?
+
+A callback is a function that you write and then pass to some other function. That other function then invokes (“calls back”) your function when some condition is met or some (asynchronous) event occurs.”
+
+
+# Promise
+**Promises** are the foundation of asynchronous programming in modern JavaScript. A promise is an object returned by an asynchronous function, which represents the current state of the operation. At the time the promise is returned to the caller, the operation often isn't finished, but the promise object provides methods to handle the eventual success or failure of the operation.
+![[promise.png]]
+
+### How to Consume Promises
+
+```javascript
+const request = fetch('https://course-api.com/react-store-products').then((response) =>{
+    console.log(response);
+    return response.json()
+}).then((data) =>{
+    console.log(data);
+})
+```
+We make a request to the country API. Then, after the fetch request, we use the `then()` method to consume the promise.
+
+## How to Handle Rejected Promises
+
+```javascript
+function call(){
+
+    const request = fetch('https://course-api.com/react-store-products').then((response) =>{
+        console.log(response);
+        return response.json()
+    }).then((data) =>{
+        console.log(data);
+    }).catch((err) =>{
+        alert(err);
+    })
+
+}
+```
+Now the `catch()` method will get an error from the rejected promise and will display the message in an alert.
+Along with the catch() method, there is one more helpful method called `finally()`
+
+
+## How to Create a Promise
+https://javascript.info/promise-basics
+The constructor syntax for a promise object is:
+
+```js
+let promise = new Promise(function(resolve, reject) {
+  // executor (the producing code, "singer")
+});
+```
+
+	When you create a `new Promise` using the Promise constructor, you pass in a function that takes two arguments: `resolve` and `reject`. These are callback functions that you, as the developer, will call to indicate the outcome of the asynchronous operation.
+
+![[promise constructor.png]]
+# Async/Await
+https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
+```js
+async function(){
+//waits for promise to resolve
+let resolvedPromise = await new Promise(...){....};
+//execution is stopped util promise is resolved
+
+return resolvedPromise;
+}
+```
+![[e5duygomitj9o455107a.gif]]
+
+![[promise pending.png]]![[promise fulfill.png]]
+
 

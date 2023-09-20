@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "44eb0713ed175851",
+        "id": "37aeb70bafad0592",
         "type": "tabs",
         "children": [
           {
-            "id": "bd77f17188eb88b3",
+            "id": "6434cd51bab4f4d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md"
+                "file": "Javascript/Javascript.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md",
+                "file": "Javascript/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md",
+                "file": "Javascript/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md"
+                "file": "Javascript/Javascript.md"
               }
             }
           },
@@ -153,19 +155,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d016f0b9e229854",
+  "active": "6434cd51bab4f4d5",
   "lastOpenFiles": [
+    "Javascript/Advance Conepts.md",
+    "Pasted image 20230921021019.png",
+    "Pasted image 20230921015801.png",
+    "Javascript/Javascript.md",
+    "Javascript/assets/59nlnyqioosaowj09xn8 1.gif",
+    "Javascript/assets/e5duygomitj9o455107a.gif",
+    "Javascript/assets/promise constructor.png",
+    "Javascript/assets/closures.png",
+    "Javascript/assets/promise pending.png",
+    "Javascript/assets/promise.png",
+    "Javascript/assets/promise fulfill.png",
+    "Javascript/assets/59nlnyqioosaowj09xn8.gif",
+    "DBMS/core concepts.excalidraw.md",
+    "Untitled.md",
+    "Javascript/assets",
+    "promise pending.",
+    "promise pending",
     "DBMS/CTE - common table expression.md",
     "DSA/LInkedList/middle of LinkedList.md",
     "DSA/Sliding Window/subarray.md",
     "DSA/Sliding Window/atMost.md",
-    "Javascript/Javascript.md",
-    "DBMS/core concepts.excalidraw.md",
     "README.md",
     "Spring Boot/Mapping in Spring JPA.md",
     "Spring Boot/store List<Object> in db.md",
     "README 2.md",
-    "Javascript/59nlnyqioosaowj09xn8.gif",
     "DSA/Sliding Window",
     "DSA/LInkedList",
     "Spring Boot",
