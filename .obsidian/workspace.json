@@ -11,9 +11,11 @@
             "id": "17101474eceb0edd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md"
+                "file": "Javascript/Javascript.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md",
+                "file": "Javascript/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md",
+                "file": "Javascript/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/core concepts.excalidraw.md"
+                "file": "Javascript/Javascript.md"
               }
             }
           },
@@ -155,6 +157,7 @@
   },
   "active": "17101474eceb0edd",
   "lastOpenFiles": [
+    "DBMS/core concepts.excalidraw.md",
     "DBMS/CTE - common table expression.md",
     "Javascript/Javascript.md",
     "README.md",
@@ -167,7 +170,6 @@
     "DSA/Sliding Window",
     "DSA/LInkedList/middle of LinkedList.md",
     "DSA/LInkedList",
-    "DBMS/core concepts.excalidraw.md",
     "Spring Boot",
     "Javascript",
     "DSA",
