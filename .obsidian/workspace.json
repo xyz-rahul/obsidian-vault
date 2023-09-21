@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37aeb70bafad0592",
+        "id": "c60672c5986f3c91",
         "type": "tabs",
         "children": [
           {
-            "id": "6434cd51bab4f4d5",
+            "id": "b32188951f4d9d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "SQL/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript.md",
+                "file": "SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript.md"
+                "file": "SQL/SQL.md"
               }
             }
           },
@@ -155,26 +155,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6434cd51bab4f4d5",
+  "active": "b32188951f4d9d6e",
   "lastOpenFiles": [
+    "Pasted image 20230921211010.png",
+    "Pasted image 20230921210809.png",
+    "Pasted image 20230921210033.png",
+    "SQL/SQL.md",
+    "Pasted image 20230921161202.png",
+    "Pasted image 20230921140038.png",
+    "Javascript/Javascript.md",
+    "DBMS/CTE - common table expression.md",
+    "DBMS/core concepts.excalidraw.md",
+    "SQL",
     "Javascript/Advance Conepts.md",
     "Pasted image 20230921021019.png",
     "Pasted image 20230921015801.png",
-    "Javascript/Javascript.md",
     "Javascript/assets/59nlnyqioosaowj09xn8 1.gif",
     "Javascript/assets/e5duygomitj9o455107a.gif",
     "Javascript/assets/promise constructor.png",
     "Javascript/assets/closures.png",
-    "Javascript/assets/promise pending.png",
-    "Javascript/assets/promise.png",
-    "Javascript/assets/promise fulfill.png",
-    "Javascript/assets/59nlnyqioosaowj09xn8.gif",
-    "DBMS/core concepts.excalidraw.md",
     "Untitled.md",
     "Javascript/assets",
     "promise pending.",
     "promise pending",
-    "DBMS/CTE - common table expression.md",
     "DSA/LInkedList/middle of LinkedList.md",
     "DSA/Sliding Window/subarray.md",
     "DSA/Sliding Window/atMost.md",
