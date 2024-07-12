@@ -50,7 +50,7 @@ JavaScript objects have a set of “own properties,” and they also
 inherit a set of properties from their prototype object.
 
 https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
-![[Javascript/assets/59nlnyqioosaowj09xn8.gif]]
+![[59nlnyqioosaowj09xn8.gif]]
 
 ## Deleting Properties
 

@@ -1,5 +1,11 @@
 [
+  "oz-image-plugin",
+  "omnisearch",
+  "text-extractor",
+  "obsidian-style-settings",
+  "obsidian-pandoc",
+  "obsidian-dictionary-plugin",
+  "editing-toolbar",
   "obsidian-git",
-  "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-file-cleaner"
 ]

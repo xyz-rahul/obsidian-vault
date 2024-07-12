@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6cfaa060d2affe0b",
+        "id": "d652e616ddbccf71",
         "type": "tabs",
         "children": [
           {
-            "id": "0ada1062b4165a1c",
+            "id": "cafebe9e6839ee19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Advance Conepts.md",
+                "file": "javascript-new/Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Advance Conepts.md",
+                "file": "javascript-new/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Advance Conepts.md",
+                "file": "javascript-new/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Advance Conepts.md"
+                "file": "javascript-new/Javascript.md"
               }
             }
           }
@@ -145,48 +145,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0ada1062b4165a1c",
+  "active": "cafebe9e6839ee19",
   "lastOpenFiles": [
-    "BitManipulation.md",
+    "README.md",
+    "nosql 2.md",
     "nosql.md",
-    "Pasted image 20230921015801.png",
-    "Pasted image 20230921021019.png",
+    "BitManipulation.md",
+    "Javascript/Javascript.md",
     "javascript-new/Javascript.md",
-    "javascript-new",
-    "css/attachments/Pasted image 20240613162429.png",
-    "css/attachments",
-    "css/Pasted image 20240607192939.png",
+    "attachments/Pasted image 20230921211010.png",
+    "attachments/Pasted image 20230921210809.png",
+    "attachments/Pasted image 20230921015801.png",
+    "DBMS/core concepts.excalidraw.md",
     "css/css.md",
     "css/Target.md",
-    "nosql 2.md",
+    "attachments/Pasted image 20230921021019.png",
+    "attachments/Pasted image 20230921210033.png",
+    "attachments/master_card_icons.png",
+    "attachments",
+    "attachments",
+    "chip_icon.png",
+    "Javascript/Advance Conepts.md",
+    "JS/Notes.md",
+    "JS",
+    "Untitled.md",
+    "attachments/Pasted image 20230921140038.png",
+    "javascript-new",
+    "attachments/Pasted image 20240613162429.png",
+    "css/attachments",
+    "attachments/Pasted image 20240607192939.png",
     "nosql",
     "css",
     "promise pending.",
-    "Untitled.md",
     "Spring Boot/store List<Object> in db.md",
     "Spring Boot/Mapping in Spring JPA.md",
     "Spring Boot",
     "SQL/SQL.md",
     "SQL",
-    "README.md",
-    "Pasted image 20230921211010.png",
-    "Pasted image 20230921210809.png",
-    "Pasted image 20230921210033.png",
-    "Pasted image 20230921161202.png",
-    "Pasted image 20230921140038.png",
-    "Javascript/assets/promise.png",
-    "Javascript/assets",
-    "Javascript/Javascript.md",
-    "Javascript/Advance Conepts.md",
-    "Javascript",
     "DSA/Sliding Window/subarray.md",
     "DSA/Sliding Window/atMost.md",
     "DSA/LInkedList/middle of LinkedList.md",
-    "DSA/Sliding Window",
-    "DBMS/core concepts.excalidraw.md",
     "DBMS/CTE - common table expression.md",
     "javascript/Javascript.md",
     "Untitled.canvas",
