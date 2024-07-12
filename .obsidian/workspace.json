@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7ce4342499803f86",
+    "id": "0fe8303e17d83d13",
     "type": "split",
     "children": [
       {
-        "id": "c60672c5986f3c91",
+        "id": "6cfaa060d2affe0b",
         "type": "tabs",
         "children": [
           {
-            "id": "b32188951f4d9d6e",
+            "id": "0ada1062b4165a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL.md",
+                "file": "Javascript/Advance Conepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a84c2ea3ccad1d71",
+    "id": "8c00b554e88c136e",
     "type": "split",
     "children": [
       {
-        "id": "4ea7b70d72aefdbb",
+        "id": "f3f5a116cc5f87aa",
         "type": "tabs",
         "children": [
           {
-            "id": "6d016f0b9e229854",
+            "id": "f182fc497aa890f5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "b472931810f13d6e",
+            "id": "c6e930680ffbf5d8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "455846c084db201c",
+            "id": "83c89d450292d827",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "936d95e49d3ec490",
+    "id": "caa50405487f1e34",
     "type": "split",
     "children": [
       {
-        "id": "ecb5816d4a37a192",
+        "id": "867ac71252731a82",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed5aaffd712b6b8",
+            "id": "12e64b500094397a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL.md",
+                "file": "Javascript/Advance Conepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "021cdc9a0696a873",
+            "id": "5e8e9bb06741805c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL.md",
+                "file": "Javascript/Advance Conepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4bd0aadbca1f0054",
+            "id": "c2c3af0ac5063929",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,29 +120,22 @@
             }
           },
           {
-            "id": "bcc6d6dac9e4c0b8",
+            "id": "2ace60bb78ff2df4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL.md"
+                "file": "Javascript/Advance Conepts.md"
               }
-            }
-          },
-          {
-            "id": "0c6822eee1553282",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,45 +145,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "b32188951f4d9d6e",
+  "active": "0ada1062b4165a1c",
   "lastOpenFiles": [
+    "BitManipulation.md",
+    "nosql.md",
+    "Pasted image 20230921015801.png",
+    "Pasted image 20230921021019.png",
+    "javascript-new/Javascript.md",
+    "javascript-new",
+    "css/attachments/Pasted image 20240613162429.png",
+    "css/attachments",
+    "css/Pasted image 20240607192939.png",
+    "css/css.md",
+    "css/Target.md",
+    "nosql 2.md",
+    "nosql",
+    "css",
+    "promise pending.",
+    "Untitled.md",
+    "Spring Boot/store List<Object> in db.md",
+    "Spring Boot/Mapping in Spring JPA.md",
+    "Spring Boot",
+    "SQL/SQL.md",
+    "SQL",
+    "README.md",
     "Pasted image 20230921211010.png",
     "Pasted image 20230921210809.png",
     "Pasted image 20230921210033.png",
-    "SQL/SQL.md",
     "Pasted image 20230921161202.png",
     "Pasted image 20230921140038.png",
-    "Javascript/Javascript.md",
-    "DBMS/CTE - common table expression.md",
-    "DBMS/core concepts.excalidraw.md",
-    "SQL",
-    "Javascript/Advance Conepts.md",
-    "Pasted image 20230921021019.png",
-    "Pasted image 20230921015801.png",
-    "Javascript/assets/59nlnyqioosaowj09xn8 1.gif",
-    "Javascript/assets/e5duygomitj9o455107a.gif",
-    "Javascript/assets/promise constructor.png",
-    "Javascript/assets/closures.png",
-    "Untitled.md",
+    "Javascript/assets/promise.png",
     "Javascript/assets",
-    "promise pending.",
-    "promise pending",
-    "DSA/LInkedList/middle of LinkedList.md",
+    "Javascript/Javascript.md",
+    "Javascript/Advance Conepts.md",
+    "Javascript",
     "DSA/Sliding Window/subarray.md",
     "DSA/Sliding Window/atMost.md",
-    "README.md",
-    "Spring Boot/Mapping in Spring JPA.md",
-    "Spring Boot/store List<Object> in db.md",
-    "README 2.md",
+    "DSA/LInkedList/middle of LinkedList.md",
     "DSA/Sliding Window",
-    "DSA/LInkedList",
-    "Spring Boot",
-    "Javascript",
-    "DSA",
-    "BitManipulation.md",
-    "DBMS"
+    "DBMS/core concepts.excalidraw.md",
+    "DBMS/CTE - common table expression.md",
+    "javascript/Javascript.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "css/CSS.md",
+    "2024-06-07.md",
+    "CSS.md",
+    "Welcome.md"
   ]
 }
