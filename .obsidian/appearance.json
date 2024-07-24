@@ -1,4 +1,12 @@
 {
   "accentColor": "",
-  "baseFontSize": 18
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Sanctum",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Andale Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "translucency": false
 }
